@@ -1,12 +1,11 @@
-{
-  "routes": [
-    {
-      "title": "hello route",
-      "description": "<description-of-route>",
-      "predicates": [
-        "Path=/api/test",
-        "Method=GET"
-      ]
-    }
-  ]
-}
+[
+  {
+    "uri": "/subscriptions/cb1ef791-33b9-430f-b53f-ad3a38219ed4/resourceGroups/asaeSandbox/providers/Microsoft.AppPlatform/Spring/asae-enfuse-sandbox/apps/helloapp",
+    "title": "hello route",
+    "description": "<description-of-route>",
+    "predicates": [
+    "Path=/api/test",
+    "Method=GET"
+    ]
+  }
+]
