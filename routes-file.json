@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "title": "hello route",
+      "description": "<description-of-route>",
+      "predicates": [
+        "Path=/api/test",
+        "Method=GET"
+      ]
+    }
+  ]
+}
